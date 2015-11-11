@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MercerStreet]]></title>
+        <description><![CDATA[MercerStreet]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 11 Nov 2015 18:34:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>This is Bowery Meat Company</p></article>]]></description>
+            <link>undefinedhome/index.html</link>
+            <guid isPermaLink="false">5d72d7b5-85b0-42ed-aa82-4db0000b0581</guid>
+            <pubDate>Wed, 11 Nov 2015 18:33:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
